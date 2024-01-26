@@ -1,0 +1,280 @@
+﻿grouper.ID,broad.taxa,stomach.item,digestion.score,TL.mm,volume.ml,weight.g,notes
+NP132,empty,empty,na,na,na,na,
+NP003,mush,mush,5,na,1,na,
+NP133,crustacea,crab,4,na,1,na,
+NP133,teleosts,fish,4,na,<1,na,
+NP134,empty,empty,na,na,na,na,
+NP049,teleosts,fish,4,na,8,na,
+NP082,teleosts,fish,4,na,120,na,
+NP020,crustacea,shrimp,3,na,1.5,na,
+NP020,mush,mush,5,na,<1,na,
+NP151,mush,mush,5,na,1,na,
+NP037,mush,mush,5,na,2,na,
+NP152,crustacea,shrimp,3,na,2,na,
+NP152,crustacea,shrimp,3,na,1,na,
+NP152,teleosts,fish,4,na,6,na,
+NP111,mush,mush,5,na,1,na,
+NP080,mush,mush,5,na,2,na,
+NP114,crustacea,shrimp,3,na,2,na,
+NP114,teleosts,fish,4,na,<1,na,
+NP119,crustacea,shrimp,3,na,7,na,
+NP119,crustacea,shrimp,4,na,1.5,na,
+NP117,crustacea,spiny.lobster,2,na,1,na,
+NP118,crustacea,spiny.lobster,2,na,6,na,
+NP157,teleosts,fish,4,na,1,na,
+NP157,mush,mush,5,na,2,na,
+NP116,mush,mush,5,na,1,na,
+NP115,crustacea,red.ridged.clinging.crab,2,15,1,na,carapace width
+NP115,mush,mush,5,na,<1,na,
+NP115,crustacea,shrimp,3,na,<1,na,
+NP123,mush,mush,5,na,2,na,
+NP052,teleosts,fish,4,na,20,na,
+NP051,mush,mush,5,na,<1,na,
+NP125,crustacea,shrimp,4,na,2,na,
+NP125,crustacea,crab,4,na,<1,na,only chelae found
+NP126,mush,mush,5,na,<1,na,
+NP081,teleosts,fish,4,na,265,na,stomach content measured in two pieces
+NP154,crustacea,shrimp,4,na,1,na,
+NP153,crustacea,rough.box.crab,2,50,20,na,carapace width
+NP043,crustacea,crab,4,na,1,na,
+NP030,mush,mush,5,na,1,na,
+NP124,teleosts,fish,4,na,3,na,
+NP127,teleosts,fish,4,na,1,na,
+NP077,teleosts,fish,4,na,2,na,
+NP072,teleosts,snapper,3,154,41,na,red snapper?
+NP074,teleosts,fish,4,na,20,na,
+NP058,empty,empty,na,na,na,na,
+NP071,empty,empty,na,na,na,na,
+NP073,chlorophyta,mermaids.tea.cup,2,na,1,na,green algae
+NP073,teleosts,fish,4,na,2,na,
+NP056,teleosts,fish,4,na,1,na,
+NP057,teleosts,fish,4,na,<1,na,
+NP079,mush,mush,5,na,2,na,
+NP070,empty,empty,na,na,na,na,
+NP075,mush,mush,5,na,<1,na,
+NP068,mush,mush,5,na,1,na,
+NP069,mush,mush,5,na,1,na,
+NP076,empty,empty,na,na,na,na,
+NP039,empty,empty,na,na,na,na,
+NP067,empty,empty,na,na,na,na,Stomach turned inside out
+NP048,crustacea,red.ridged.clinging.crab,2,34,3,na,carapace width
+NP048,mush,mush,5,na,2,na,
+NP066,teleosts,fish,4,na,40,na,
+NP066,coral,coral,na,na,1,na,
+NP062,mush,mush,5,na,91,na,
+NP059,empty,empty,na,na,na,na,
+NP171,crustacea,crab,3,30,14,na,carapace width
+NP171,crustacea,shrimp,4,na,2,na,
+NP171,mush,mush,5,na,2,na,
+NP156,empty,empty,na,na,na,na,
+NP120,teleosts,creole.wrasse,2,173,75,na,juvenile creole wrasse 
+NP155,crustacea,mantis.shrimp,1,23,<1,na,tiny green shrimp (family stomatopoda)
+NP122,teleosts,fish,4,na,20,na,
+NP122,mollusca,conch.foot,3,na,2,na,
+NP122,crustacea,shrimp,3,na,1,na,
+NP121,crustacea,red.ridged.clinging.crab,2,13,2,na,
+NP112,teleosts,fish,4,na,6,na,
+NP112,teleosts,fish,4,na,4,na,
+NP112,mush,mush,5,na,2,na,
+NP040,empty,empty,na,na,na,na,
+NP044,empty,empty,na,na,na,na,
+NP060,mush,mush,5,na,3,na,
+NP055,teleosts,fish,4,na,4,na,
+NP061,teleosts,fish,4,na,2,na,
+NP065,empty,empty,na,na,na,na,
+NP022,teleosts,fish,4,na,25,na,
+NP054,empty,empty,na,na,na,na,
+NP078,empty,empty,na,na,na,na,
+NP063,empty,empty,na,na,na,na,
+NP064,teleosts,fish,4,na,40,na,
+NP035,empty,empty,na,na,na,na,Stomach turned inside out
+NP036,empty,empty,na,na,na,na,
+NP046,empty,empty,na,na,na,na,
+NP045,teleosts,fish,4,na,30,na,
+NP047,teleosts,parrotfish,3,184,116,na,parrotfish 
+NP001,teleosts,fish,4,na,210,na,
+NP026,empty,empty,na,na,na,na,na
+NP025,empty,empty,na,na,na,na,na
+NP129,empty,empty,na,na,na,na,na
+NP113,teleosts,fish,4,na,8,na,na
+NP033,mush,mush,5,na,1,na,na
+NP050,crustacea,red.ridged.clinging.crab,2,36,8,na,carapace width
+NP050,mush,mush,5,na,1,na,
+NP030,crustacea,red.ridged.clinging.crab,2,25,4,na,carapace width
+NP030,crustacea,crab,4,na,2,na,
+NP014,mollusca,conch.foot,3,na,6,na,
+NP014,teleosts,fish,4,na,70,na,
+NP014,mush,mush,5,na,12,na,
+EL001,empty,empty,na,na,na,na,Cara
+EL002,mush,mush,5,na,na,0.298,Pauline
+EL003,mush,mush,5,na,na,0.91,Cara
+EL004,mush,mush,5,na,na,1.18,Drew
+EL005,empty,empty,na,na,na,na,Helen
+EL006,empty,empty,na,na,na,na,Pauline
+EL007,teleosts,surgeon.fish,3,220,140,156,Drew
+EL008,empty,empty,na,na,na,na,Drew
+EL009,empty,empty,na,na,na,na,Pauline
+EL011,empty,empty,na,na,na,na,Cara
+EL012,teleosts,fish,4,113,9,9,
+EL012,crustacea,crab,3,12,1,1.45,Cara
+EL012,algae,seaweed,1,na,na,0.7,Cara
+EL013,crustacea,crab,3,15,2,2.2,Cara
+EL013,crustacea,lobster,3,na,na,0.88,Cara
+EL014,crustacea,rough.box.crab,1,47,5,5.64,Pauline- Rough box crab
+EL014,crustacea,crab,4,na,na,0.96,Pauline
+EL015,empty,empty,na,na,na,na,Drew- Parrot fish scale
+EL016,empty,empty,na,na,na,na,Lili
+EL017,crustacea,crab,4,na,na,0.045,Pauline
+EL018,empty,empty,na,na,na,na,Cara
+EL019,empty,empty,na,na,na,na,Pauline
+EL020,empty,empty,na,na,na,na,Pauline
+EL021,crustacea,crab,4,na,2,2.113,Pauline- Just 2 legs
+EL022,crustacea,crab,4,na,na,0.207,Helen
+El023,empty,empty,na,na,na,na,Helen
+EL024,crustacea,mantis.shrimp,1,25,3,0.25,Lili
+EL025,empty,empty,na,na,na,na,Cara
+EL026,mush,mush,5,na,na,2.089,Lili
+EL027,teleosts,parrotfish,3,na,na,na,Helen
+EL027,empty,empty,na,na,na,na,"blck substance, potentially the liver-Helen"
+El028,teleosts,grunt,3,na,30,33,Helen- grunt head only
+EL029,teleosts,parrotfish,3,na,na,18,Cara- Parrot fish ?
+EL030,empty,empty,na,na,na,na,Lili
+EL031,teleosts,fish,4,na,40,45,Pauline- Highly digested 
+EL032,teleosts,fish,4,na,60,28,Pauline
+EL033,empty,empty,na,na,na,na,Pauline
+EL034,crustacea,mantis.shrimp,1,33,0.8,0.798,Cara
+EL035,teleosts,fish,4,125,15,26,Helen
+EL035,mush,mush,5,na,na,na,Helen
+EL036,mush,mush,5,na,na,na,Helen
+EL037,teleosts,fish,4,na,na,18,"Lili- Long faced fish, file fish?"
+EL037,mush,mush,5,na,na,1.05,Lili
+EL038,empty,empty,na,na,na,na,Helen
+EL039,empty,empty,na,na,na,na,Helen
+EL039,empty,empty,na,na,na,na,Helen
+EL040,teleosts,parrotfish,3,na,na,na,Helen
+EL041,mush,mush,5,na,na,1.13,Pauline
+EL042,empty,empty,na,na,na,na,Helen
+EL043,crustacea,crab,4,na,na,0.25,Pauline
+EL044,mush,mush,5,na,na,0.05,Lili
+EL045,teleosts,fish,4,111,35,21,Pauline
+EL045,echinodermata,sea.cucumber,2,80,112,12,Pauline
+EL046,crustacea,white.speckled.hermit.crab,1,85,5,25,Helen- White speckeled Hermit crab?
+EL100,teleosts,parrotfish,3,189,180,159,Lili
+EL101,mush,mush,5,na,na,13,Pauline
+EL102,empty,empty,na,na,na,na,Drew
+EL103,empty,empty,na,na,na,na,Helen
+EL104,empty,empty,na,na,na,na,Cara
+EL105,empty,empty,na,na,na,na,Helen
+EL106,mush,mush,5,na,na,0.097,Cara
+EL108,crustacea,crab,3,28,3,2.74,Drew
+EL108,empty,empty,na,na,na,na,Drew
+EL109,empty,empty,na,na,na,na,Drew
+EL110,mush,mush,5,na,na,0.126,Pauline
+EL1 ,teleosts,stoplight.parrotfish,2,244,1000,1056,Cara
+EL2,teleosts,fish,4,na,na,na,Drew
+EL3,empty,empty,na,na,na,na,Drew
+EL4,mollusca,octopus,2,154,40,43,Cara
+EL5,empty,empty,na,na,na,na,Drew
+EL6,teleosts,fish,4,13,na,0.15,Cara
+EL7,empty,empty,na,na,na,na,Drew
+EL8,empty,empty,na,na,na,na,Cara
+EL9,crustacea,red.ridged.clinging.crab,2,15,10,3.76,carapace width
+EL10,empty,empty,5,na,na,na,
+EL11,mush,mush,5,na,<1,0.13,
+EL12,mush,mush,5,na,<1,0.07,
+EL13,mush,mush,5,na,<1,0.38,
+EL14,crustacea,crustacean,4,na,<1,0.24,
+EL15,mush,mush,5,na,<1,0.11,
+EL16,mush,mush,5,na,<1,0.19,
+EL17,mush,mush,5,na,<1,0.03,
+EL19,empty,empty,na,na,na,na,
+EL20,mush,mush,5,na,0.1,0.25,
+EL21,teleosts,fish,4,na,0.4,0.55,
+EL23,mush,mush,5,na,<1,0.42,
+EL24,mush,mush,5,na,<1,0.26,
+EL25,mush,mush,5,na,<1,0.56,
+EL26,teleosts,fish,4,na,0.3,0.59,HY
+EL27,mush,mush,5,na,1.4,0.85,
+EL28,crustacea,crustacean,4,na,4,6.19,
+EL30,mush,mush,5,na,na,0.86,Lili
+7a,empty,empty,na,na,na,na,lili
+EL31,mush,mush,5,na,na,0.45,
+EL31,crustacea,shrimp,4,na,na,na,
+EL32,mush,mush,5,na,na,0.612,Drew
+EL33,empty,empty,na,na,na,na,Cara
+EL36,teleosts,fish,4,2.9,na,0.466,Cara
+EL36,crustacea,crab,3,1.9,na,1.579,Cara
+EL36,crustacea,crab,3,1.4,na,1.064,Cara
+EL36,crustacea,crab,3,1.8,na,1.395,Cara
+EL36,rock,rock,na,na,na,na,Cara
+EL37,mush,mush,5,na,na,na,Lili
+EL38,empty,empty,na,na,na,na,
+EL39,teleosts,fish,4,na,na,2.115,Drew
+EL40,empty,empty,na,na,na,na,Lili
+EL41,empty,empty,na,na,na,na,Pauline
+EL42,empty,empty,na,na,na,na,Lili
+EL43,teleosts,fish,4,na,na,0.102,Cara
+EL44,empty,empty,na,na,na,na,Pauline
+EL45,empty,empty,na,na,na,na,Cara
+EL46,empty,empty,na,na,na,na,
+EL47,empty,empty,na,na,na,na,Lili 
+EL48,empty,empty,na,na,na,na,Cara
+EL49,empty,empty,na,na,na,na,Cara
+EL50,teleosts,fish,4,24,65,80,Drew - prey fish looked like grouper from mouth
+EL50,crustacea,crab,3,3,10,8,Drew
+EL51,crustacea,shrimp,4,na,na,0.86,Cara
+EL52,empty,empty,na,na,na,na,Joce
+EL53,crustacea,isopod,2,1.5,<0.01,0.125,Cara - bag full of flys!
+EL53,crustacea,crab,3,1.7,0.8,0.1046,Cara
+EL54,crustacea,crab,3,0.8,1,0.665,Lili
+EL54,crustacea,crab,3,0.9,0.9,0.92,Lili
+EL55,crustacea,crab,3,1,1.5,0.865,Drew
+EL56,empty,empty,na,na,na,na,pauline
+EL57,empty,empty,na,na,na,na,Lili
+EL58,empty,empty,na,na,na,na,pauline
+EL59,empty,empty,na,na,na,na,Lili
+EL60,empty,empty,na,na,na,na,
+EL61,empty,empty,na,na,na,na,
+EL62,empty,empty,na,na,na,na,
+EL64,empty,empty,na,na,na,na,Lili
+EL65,empty,empty,na,na,na,na,Lili
+EL66,empty,empty,na,na,na,na,Pauline
+EL67,mush,mush,5,na,na,na,Pauline
+EL68,empty,empty,na,na,na,na,
+EL69,empty,empty,na,na,na,na,
+EL70,empty,empty,na,na,na,na,
+EL71,empty,empty,na,na,na,na,
+EL73,empty,empty,na,na,na,na,Drew
+EL74,empty,empty,na,na,na,na,Lili
+EL75,crustacea,rough.box.crab,2,2.7,<0.01,2,Pauline
+EL76,teleosts,fish,4,na,na,0.145,Pauline
+EL78,empty,empty,na,na,na,na,Lili
+EL79,crustacea,crab,3,2.4,<0.01,4,Lili
+EL80,crustacea,crab,4,na,na,0.146,Drew
+EL81,empty,empty,na,na,na,na,
+MN1B,empty,empty,na,na,na,na,
+MN2B,empty,empty,na,na,na,na,
+MN3B,crustacea,crab,3,2,0.3,0.688,Drew
+MN4B,empty,empty,na,na,na,na,Cara
+MN5B,crustacea,isopod,2,1.1,0.2,0.54,Cara
+MN5B,crustacea,shell,4,1.5,na,0.327,
+MN6B,empty,empty,na,na,na,na,Cara
+MN7B,mollusca,octopus,3,32.5,25,21,Pauline
+MN8B,empty,empty,na,na,na,na,Drew
+MN1A,teleosts,fish,4,na,na,na,Pauline
+MN2A,crustacea,crustacean,4,na,3.6,5,Lili
+MN3A,mush,mush,5,na,na,na,
+MN4A,mush,mush,5,na,na,na,
+MN5A,empty,empty,na,na,na,na,Lili
+MN6A,empty,empty,na,na,na,na,Drew
+MN7A,empty,empty,na,na,na,na,
+MN8A,teleosts,fish,4,na,na,na,Pauline
+MN9A,empty,empty,na,na,na,na,Cara
+MN10A,empty,empty,na,na,na,na,Drew
+MN11A,crustacea,crab,3,1.3,2,3.4,Pauline
+MN12A,empty,empty,na,na,na,na,Lili
+EL26,mush,mush,5,na,<1,<1,HY
+EL28,mush,mush,5,na,<1,<1,
+EL9,crustacea,red.ridged.clinging.crab,2,10,<1,0.84,carapace width
+EL21,mush,mush,5,na,<1,<1,
+EL14,mush,mush,5,na,<1,<1,

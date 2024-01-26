@@ -1,0 +1,251 @@
+﻿grouper.ID,species,landing.site,capture.site,TL.mm,SL.mm,weight.g,landing.year,landing.month,landing.date.dd.mm.yy,collector.name,notes
+NP001,nassau.grouper,montagu.ramp,na,720,na,na,2016,may,12/05/2016,nicola,
+NP048,nassau.grouper,montagu.ramp,na,690,na,na,2016,may,12/05/2016,nicola,
+NP047,nassau.grouper,montagu.ramp,na,530,na,na,2016,may,12/05/2016,nicola,
+NP036,nassau.grouper,montagu.ramp,na,750,na,na,2016,may,12/05/2016,nicola,
+NP046,nassau.grouper,montagu.ramp,na,610,na,na,2016,may,12/05/2016,nicola,
+NP044,nassau.grouper,montagu.ramp,na,720,na,na,2016,may,12/05/2016,nicola,
+NP045,nassau.grouper,montagu.ramp,na,730,na,na,2016,may,12/05/2016,nicola,
+NP035,nassau.grouper,montagu.ramp,na,620,na,na,2016,may,12/05/2016,nicola,
+NP040,nassau.grouper,montagu.ramp,na,610,na,na,2016,may,12/05/2016,nicola,
+NP058,nassau.grouper,montagu.ramp,berry.islands,620,na,na,2016,may,13/05/2016,nicola,
+NP022,nassau.grouper,montagu.ramp,berry.islands,610,na,na,2016,may,13/05/2016,nicola,
+NP065,yellowfin.grouper,montagu.ramp,berry.islands,700,na,na,2016,may,13/05/2016,nicola,
+NP077,yellowfin.grouper,montagu.ramp,berry.islands,710,na,na,2016,may,13/05/2016,nicola,
+NP066,nassau.grouper,montagu.ramp,berry.islands,620,na,na,2016,may,13/05/2016,nicola,
+NP054,nassau.grouper,montagu.ramp,berry.islands,610,na,na,2016,may,13/05/2016,nicola,
+NP055,yellowfin.grouper,montagu.ramp,berry.islands,630,na,na,2016,may,13/05/2016,nicola,
+NP064,black.grouper,montagu.ramp,berry.islands,640,na,na,2016,may,13/05/2016,nicola,
+NP059,nassau.grouper,montagu.ramp,berry.islands,620,na,na,2016,may,13/05/2016,nicola,
+NP060,yellowfin.grouper,montagu.ramp,berry.islands,650,na,na,2016,may,13/05/2016,nicola,
+NP061,nassau.grouper,montagu.ramp,berry.islands,550,na,na,2016,may,13/05/2016,nicola,
+NP078,nassau.grouper,montagu.ramp,berry.islands,690,na,na,2016,may,13/05/2016,nicola,
+NP063,yellowfin.grouper,montagu.ramp,berry.islands,610,na,na,2016,may,13/05/2016,nicola,
+NP071,nassau.grouper,montagu.ramp,berry.islands,520,na,na,2016,may,13/05/2016,nicola,
+NP056,yellowfin.grouper,montagu.ramp,berry.islands,610,na,na,2016,may,13/05/2016,nicola,
+NP067,black.grouper,montagu.ramp,berry.islands,810,na,na,2016,may,13/05/2016,nicola,
+NP068,yellowfin.grouper,montagu.ramp,berry.islands,580,na,na,2016,may,13/05/2016,nicola,
+NP073,yellowfin.grouper,montagu.ramp,berry.islands,600,na,na,2016,may,13/05/2016,nicola,
+NP057,yellowfin.grouper,montagu.ramp,berry.islands,550,na,na,2016,may,13/05/2016,nicola,
+NP069,nassau.grouper,montagu.ramp,berry.islands,500,na,na,2016,may,13/05/2016,nicola,
+NP075,yellowfin.grouper,montagu.ramp,berry.islands,520,na,na,2016,may,13/05/2016,nicola,
+NP072,nassau.grouper,montagu.ramp,berry.islands,650,na,na,2016,may,13/05/2016,nicola,fish found in mouth
+NP074,nassau.grouper,montagu.ramp,berry.islands,590,na,na,2016,may,13/05/2016,nicola,
+NP070,nassau.grouper,montagu.ramp,berry.islands,650,na,na,2016,may,13/05/2016,nicola,
+NP076,nassau.grouper,montagu.ramp,berry.islands,520,na,na,2016,may,13/05/2016,nicola,
+NP079,nassau.grouper,montagu.ramp,berry.islands,490,na,na,2016,may,13/05/2016,nicola,
+NP062,nassau.grouper,montagu.ramp,berry.islands,550,na,na,2016,may,13/05/2016,nicola,
+NP132,yellowfin.grouper,montagu.ramp,berry.islands,500,na,na,2016,may,13/05/2016,nicola,
+NP039,redhind,montagu.ramp,rose.island,370,na,na,2016,may,14/05/2016,nicola,
+NP112,nassau.grouper,potters.cay,na,550,na,na,2016,may,15/05/2016,nicola,
+NP020,redhind,montagu.ramp,na,360,na,na,2016,may,17/05/2016,nicola,
+NP111,redhind,montagu.ramp,na,310,na,na,2016,may,17/05/2016,nicola,
+NP037,redhind,montagu.ramp,na,390,na,na,2016,may,17/05/2016,nicola,
+NP152,redhind,montagu.ramp,na,350,na,na,2016,may,17/05/2016,nicola,
+NP151,redhind,montagu.ramp,na,340,na,na,2016,may,17/05/2016,nicola,
+NP114,redhind,montagu.ramp,na,340,na,na,2016,may,19/05/2016,nicola,
+NP115,redhind,montagu.ramp,na,320,na,na,2016,may,19/05/2016,nicola,
+NP119,redhind,montagu.ramp,na,320,na,na,2016,may,19/05/2016,nicola,
+NP118,redhind,montagu.ramp,na,340,na,na,2016,may,19/05/2016,nicola,
+NP116,redhind,montagu.ramp,na,370,na,na,2016,may,19/05/2016,nicola,
+NP117,redhind,montagu.ramp,na,310,na,na,2016,may,19/05/2016,nicola,
+NP121,nassau.grouper,montagu.ramp,eleuthera,420,na,na,2016,may,20/05/2016,nicola,
+NP122,nassau.grouper,montagu.ramp,eleuthera,440,na,na,2016,may,20/05/2016,nicola,
+NP080,nassau.grouper,montagu.ramp,eleuthera,460,na,na,2016,may,20/05/2016,nicola,
+NP155,nassau.grouper,montagu.ramp,eleuthera,480,na,na,2016,may,20/05/2016,nicola,
+NP154,nassau.grouper,montagu.ramp,eleuthera,570,na,na,2016,may,20/05/2016,nicola,
+NP153,nassau.grouper,montagu.ramp,eleuthera,460,na,na,2016,may,20/05/2016,nicola,
+NP156,nassau.grouper,montagu.ramp,eleuthera,570,na,na,2016,may,20/05/2016,nicola,
+NP157,nassau.grouper,montagu.ramp,eleuthera,510,na,na,2016,may,20/05/2016,nicola,
+NP124,nassau.grouper,montagu.ramp,eleuthera,440,na,na,2016,may,20/05/2016,nicola,
+NP123,nassau.grouper,montagu.ramp,eleuthera,420,na,na,2016,may,20/05/2016,nicola,
+NP043,redhind,montagu.ramp,eleuthera,320,na,na,2016,may,20/05/2016,nicola,
+NP127,redhind,montagu.ramp,eleuthera,270,na,na,2016,may,20/05/2016,nicola,
+NP030,redhind,montagu.ramp,eleuthera,300,na,na,2016,may,20/05/2016,nicola,
+NP126,redhind,montagu.ramp,eleuthera,310,na,na,2016,may,20/05/2016,nicola,
+NP125,nassau.grouper,montagu.ramp,eleuthera,450,na,na,2016,may,20/05/2016,nicola,
+NP120,nassau.grouper,montagu.ramp,eleuthera,530,na,na,2016,may,20/05/2016,nicola,
+NP171,nassau.grouper,montagu.ramp,eleuthera,440,na,na,2016,may,20/05/2016,nicola,
+NP052,nassau.grouper,montagu.ramp,eleuthera,390,na,na,2016,may,20/05/2016,nicola,
+NP051,nassau.grouper,montagu.ramp,eleuthera,460,na,na,2016,may,20/05/2016,nicola,
+NP081,black.grouper,adelaide,andros,1020,na,19.96.kg,2016,may,21/05/2016,nicola,44lbs 
+NP049,yellowfin.grouper,adelaide,andros,650,na,na,2016,may,21/05/2016,nicola,
+NP082,black.grouper,adelaide,andros,940,na,14.52.kg,2016,may,21/05/2016,nicola,32 lbs
+NP083,nassau.grouper,adelaide,andros,600,na,na,2016,may,21/05/2016,nicola,stomach not dissected (missing)
+NP003,nassau.grouper,adelaide,andros,620,na,na,2016,may,21/05/2016,nicola,
+NP133,nassau.grouper,adelaide,andros,460,na,na,2016,may,21/05/2016,nicola,
+NP142,nassau.grouper,adelaide,andros,490,na,na,2016,may,21/05/2016,nicola,stomach not dissected (missing)
+NP134,nassau.grouper,adelaide,andros,420,na,na,2016,may,21/05/2016,nicola,
+NP026,redhind,montagu.ramp,na,340,na,na,2016,may,25/05/2016,nicola,need to enter dissection data
+NP025,redhind,montagu.ramp,na,340,na,na,2016,may,25/05/2016,nicola,need to enter dissection data
+NP129,redhind,montagu.ramp,na,380,na,na,2016,may,25/05/2016,nicola,need to enter dissection data
+NP113,nassau.grouper,montagu.ramp,na,560,na,na,2016,may,na,nicola,need to enter dissection data
+NP033,nassau.grouper,montagu.ramp,na,570,na,na,2016,may,na,nicola,need to enter dissection data
+NP050,nassau.grouper,montagu.ramp,na,620,na,na,2016,may,na,nicola,need to enter dissection data
+NP014,black.grouper,montagu.ramp,na,800,na,na,2016,may,na,nicola,need to enter dissection data
+EL001,yellowfin.grouper,cei.boathouse,eleuthera,560,440,na,2015,may,14/05/2015,nicola,
+EL002,yellowfin.grouper,cei.boathouse,eleuthera,580,460,na,2015,may,14/05/2015,nicola,
+EL003,redhind,cei.boathouse,eleuthera,395,330,na,2015,may,15/05/2015,nicola,
+EL004,nassau.grouper,cei.boathouse,eleuthera,330,260,na,2015,may,28/05/2015,nicola,
+EL005,redhind,cei.boathouse,eleuthera,340,280,na,2015,may,31/05/2015,nicola,
+EL006,yellowfin.grouper,cei.boathouse,eleuthera,568,530,na,2015,may,31/05/2015,nicola,
+EL007,yellowfin.grouper,cei.boathouse,eleuthera,650,630,na,2015,may,31/05/2015,nicola,
+EL008,nassau.grouper,cei.boathouse,eleuthera,360,na,na,2015,may,31/05/2015,nicola,
+EL009,nassau.grouper,cei.boathouse,eleuthera,430,410,na,2015,may,31/05/2015,nicola,
+EL010,nassau.grouper,cei.boathouse,eleuthera,410,na,na,2015,may,31/05/2015,nicola,stomach not dissected (missing)
+EL011,nassau.grouper,cei.boathouse,eleuthera,390,na,na,2015,may,31/05/2015,nicola,
+EL012,redhind,cei.boathouse,eleuthera,360,na,na,2015,may,31/05/2015,nicola,
+EL013,nassau.grouper,cei.boathouse,eleuthera,400,na,na,2015,may,31/05/2015,nicola,
+EL014,nassau.grouper,cei.boathouse,eleuthera,349,na,na,2015,may,31/05/2015,nicola,
+EL015,nassau.grouper,cei.boathouse,eleuthera,650,na,na,2015,june,2015-08-06,nicola,
+EL016,yellowfin.grouper,cei.boathouse,eleuthera,450,na,na,2015,june,2015-08-06,nicola,
+EL017,yellowfin.grouper,cei.boathouse,eleuthera,450,na,na,2015,june,2015-08-06,nicola,
+EL018,yellowfin.grouper,cei.boathouse,eleuthera,550,na,na,2015,june,2015-08-06,nicola,
+EL019,nassau.grouper,cei.boathouse,eleuthera,510,na,na,2015,june,2015-08-06,nicola,
+EL020,nassau.grouper,cei.boathouse,eleuthera,470,na,na,2015,june,2015-08-06,nicola,
+EL021,redhind,cei.boathouse,eleuthera,340,na,na,2015,june,2015-08-06,nicola,
+EL022,redhind,cei.boathouse,eleuthera,310,na,na,2015,june,2015-08-06,nicola,
+EL023,redhind,cape.eleuthera.marina,eleuthera,304,na,350,2015,july,13/07/2015,nicola,
+EL024,redhind,cape.eleuthera.marina,eleuthera,336,na,541,2015,july,13/07/2015,nicola,
+EL025,tiger.grouper,tarpum.bay,eleuthera,400,na,na,2015,july,15/07/2015,nicola,
+EL026,nassau.grouper,tarpum.bay,eleuthera,606,na,na,2015,july,15/07/2015,nicola,
+EL027,nassau.grouper,tarpum.bay,eleuthera,550,na,na,2015,july,15/07/2015,nicola,
+EL028,nassau.grouper,tarpum.bay,eleuthera,502,na,na,2015,july,15/07/2015,nicola,
+EL029,nassau.grouper,tarpum.bay,eleuthera,622,na,na,2015,july,17/07/2015,nicola,
+EL030,nassau.grouper,tarpum.bay,eleuthera,604,na,na,2015,july,17/07/2015,nicola,
+EL031,nassau.grouper,tarpum.bay,eleuthera,524,na,na,2015,july,17/07/2015,nicola,
+EL032,nassau.grouper,tarpum.bay,eleuthera,598,na,na,2015,july,17/07/2015,nicola,
+EL033,yellowfin.grouper,tarpum.bay,eleuthera,637,na,na,2015,july,17/07/2015,nicola,
+EL034,nassau.grouper,tarpum.bay,eleuthera,450,na,na,2015,july,17/07/2015,nicola,
+EL035,yellowfin.grouper,tarpum.bay,eleuthera,660,na,na,2015,july,17/07/2015,nicola,
+EL036,nassau.grouper,tarpum.bay,eleuthera,486,na,na,2015,july,17/07/2015,nicola,
+EL037,nassau.grouper,tarpum.bay,eleuthera,760,na,na,2015,july,17/07/2015,nicola,
+EL038,yellowfin.grouper,tarpum.bay,eleuthera,580,na,na,2015,july,17/07/2015,nicola,
+EL039,nassau.grouper,tarpum.bay,eleuthera,515,na,na,2015,july,17/07/2015,nicola,
+EL040,nassau.grouper,tarpum.bay,eleuthera,519,na,na,2015,july,17/07/2015,nicola,
+EL041,nassau.grouper,tarpum.bay,eleuthera,510,na,na,2015,july,17/07/2015,nicola,
+EL042,nassau.grouper,tarpum.bay,eleuthera,521,na,na,2015,july,17/07/2015,nicola,
+EL043,nassau.grouper,tarpum.bay,eleuthera,470,na,na,2015,july,17/07/2015,nicola,
+EL044,nassau.grouper,tarpum.bay,eleuthera,469,na,na,2015,july,17/07/2015,nicola,
+EL045,nassau.grouper,tarpum.bay,eleuthera,468,na,na,2015,july,17/07/2015,nicola,
+EL046,nassau.grouper,tarpum.bay,eleuthera,438,na,na,2015,july,17/07/2015,nicola,
+EL100,yellowfin.grouper,cei.boathouse,eleuthera,700,na,431.1,2015,july,17/07/2015,Joce,Fisher was Earnest 
+EL101,yellowfin.grouper,cei.boathouse,eleuthera,580,na,241.7,2015,july,17/07/2015,Joce,Fisher was Earnest 
+EL102,yellowfin.grouper,cape.eleuthera.marina,eleuthera,760,na,na,2015,july,na,Joce,Fisher was Earnest 
+EL103,nassau.grouper,cape.eleuthera.marina,eleuthera,361,na,694,2015,july,na,Summer team,
+EL104,nassau.grouper,cape.eleuthera.marina,eleuthera,423,na,1143,2015,july,na,Summer team,
+EL105,nassau.grouper,cape.eleuthera.marina,eleuthera,370,na,792,2015,july,na,Summer team,
+EL106,nassau.grouper,cape.eleuthera.marina,eleuthera,415,na,1160,2015,july,na,Summer team,
+EL107,nassau.grouper,cape.eleuthera.marina,eleuthera,412,na,1115,2015,july,na,Summer team,guts missing
+EL108,nassau.grouper,cape.eleuthera.marina,eleuthera,365,na,678,2015,august,15/8/2015,Mike,Fisher was Nehama
+EL109,redhind,cape.eleuthera.marina,eleuthera,322,na,482,2015,august,15/8/2015,Mike,Fisher was Nehama
+EL110,graysby,cei.boathouse,eleuthera,260,na,288,2015,august,19/8/2015,Mike,
+EL1,black.grouper,cape.eleuthera.marina,eleuthera,1140,1050,1514,2016,december,2016-12-02,Rob,
+EL2,redhind,cape.eleuthera.marina,eleuthera,690,600,70,2016,december,2016-12-02,Rob,
+EL3,yellowfin.grouper,cotton.bay,eleuthera,480,410,21,2016,february,23/2/2016,na,fisherman-Manex
+EL4,yellowfin.grouper,cotton.bay,eleuthera,456,366,67,2016,february,23/2/2016,na,fisherman-Manex
+EL5,redhind,cotton.bay,eleuthera,315,250,8,2016,february,23/2/2016,na,fisherman-Manex
+EL6,yellowfin.grouper,cotton.bay,eleuthera,434,364,9,2016,february,23/2/2016,na,fisherman-Manex
+EL7,yellowfin.grouper,cotton.bay,eleuthera,350,280,5,2016,february,23/2/2016,na,"fisherman-Manex, fish was already cut open"
+EL8,nassau.grouper,james.cistern,eleuthera,500,420,na,2016,march,2016-03-03,Joce plus spring team,fisher - ton caught off JC pelican key
+EL9,nassau.grouper,james.cistern,eleuthera,410,340,na,2016,march,2016-03-03,Joce plus spring team,
+EL10,black.grouper,james.cistern,eleuthera,350,280,na,2016,march,2016-03-03,Joce plus spring team,
+EL11,black.grouper,james.cistern,eleuthera,390,310,na,2016,march,2016-03-03,Joce plus spring team,
+EL12,black.grouper,james.cistern,eleuthera,350,280,na,2016,march,2016-03-03,Joce plus spring team,
+EL13,black.grouper,james.cistern,eleuthera,400,330,na,2016,march,2016-03-03,Joce plus spring team,
+EL14,nassau.grouper,james.cistern,eleuthera,340,280,na,2016,march,2016-03-03,Joce plus spring team,
+EL15,black.grouper,james.cistern,eleuthera,350,280,na,2016,march,2016-03-03,Joce plus spring team,
+EL16,black.grouper,james.cistern,eleuthera,490,410,na,2016,march,2016-03-03,Joce plus spring team,
+EL17,black.grouper,james.cistern,eleuthera,320,260,na,2016,march,2016-03-03,Joce plus spring team,
+EL18,nassau.grouper,james.cistern,eleuthera,460,380,na,2016,march,2016-03-03,Joce plus spring team,stomach already open - cannot dissect
+EL19,black.grouper,james.cistern,eleuthera,320,250,na,2016,march,2016-03-03,Joce plus spring team,
+EL20,black.grouper,james.cistern,eleuthera,350,290,na,2016,march,2016-03-03,Joce plus spring team,
+EL21,nassau.grouper,james.cistern,eleuthera,370,300,na,2016,march,2016-03-03,Joce plus spring team,
+EL22,nassau.grouper,james.cistern,eleuthera,390,310,na,2016,march,2016-03-03,Joce plus spring team,stomach already open - cannot dissect
+EL23,black.grouper,james.cistern,eleuthera,600,480,2877,2016,march,2016-03-03,Joce plus spring team,
+EL24,black.grouper,james.cistern,eleuthera,520,410,1793,2016,march,2016-03-03,Joce plus spring team,
+EL25,black.grouper,james.cistern,eleuthera,540,440,2231,2016,march,2016-03-03,Joce plus spring team,
+EL26,black.grouper,james.cistern,eleuthera,535,460,na,2016,march,2016-03-03,Manex,
+EL27,black.grouper,james.cistern,eleuthera,570,490,na,2016,march,2016-03-03,Manex,
+EL28,redhind,james.cistern,eleuthera,390,335,na,2016,march,2016-03-03,Manex,
+EL28a,redhind,cape.eleuthera.marina,eleuthera,310,250,312,2016,march,15/3/2016,Pauline + spring team,guts missing
+EL29,redhind,cape.eleuthera.marina,eleuthera,310,280,362,2016,march,15/3/2016,Pauline + spring team,guts missing
+EL30,redhind,cape.eleuthera.marina,eleuthera,280,230,233,2016,march,15/3/2016,Pauline + spring team,
+1a,nassau.grouper,james.cistern,eleuthera,300,240,na,2016,march,22/3/2016,Joce and aaron,guts missing
+2a,nassau.grouper,james.cistern,eleuthera,350,280,na,2016,march,22/3/2016,Joce and aaron,guts missing
+3a,nassau.grouper,james.cistern,eleuthera,390,330,na,2016,march,22/3/2016,Joce and aaron,guts missing
+4a,nassau.grouper,james.cistern,eleuthera,250,200,na,2016,march,22/3/2016,Joce and aaron,guts missing
+5a,nassau.grouper,james.cistern,eleuthera,260,210,na,2016,march,22/3/2016,Joce and aaron,guts missing
+6a,nassau.grouper,james.cistern,eleuthera,280,250,na,2016,march,22/3/2016,Joce and aaron,guts missing
+7a,nassau.grouper,james.cistern,eleuthera,240,200,na,2016,march,22/3/2016,Joce and aaron,fisher horatio and ton - genetics taken
+EL31,nassau.grouper,james.cistern,eleuthera,480,390,na,2016,march,23/3/2016,Joce and aaron,"genetic taken,  fisheries ton, mike and patrick"
+EL32,black.grouper,james.cistern,eleuthera,490,370,na,2016,march,23/3/2016,Joce and aaron,"fisheries ton, mike and patrick"
+EL33,black.grouper,james.cistern,eleuthera,450,370,na,2016,march,23/3/2016,Joce and aaron,"fisheries ton, mike and patrick"
+EL34,nassau.grouper,james.cistern,eleuthera,480,400,na,2016,march,23/3/2016,Joce and aaron,guts missing
+EL35,black.grouper,james.cistern,eleuthera,510,400,na,2016,march,23/3/2016,Joce and aaron,guts missing
+EL36,nassau.grouper,james.cistern,eleuthera,420,350,na,2016,march,23/3/2016,Joce and aaron,"genetic taken, fisheries ton, mike and patrick"
+EL37,black.grouper,james.cistern,eleuthera,460,350,na,2016,march,23/3/2016,Joce and aaron,"fisheries ton, mike and patrick"
+EL38,black.grouper,james.cistern,eleuthera,530,470,na,2016,march,23/3/2016,Joce and aaron,"fisheries ton, mike and patrick"
+EL39,black.grouper,james.cistern,eleuthera,430,360,na,2016,march,23/3/2016,Joce and aaron,"fisheries ton, mike and patrick"
+EL40,black.grouper,james.cistern,eleuthera,380,320,na,2016,march,23/3/2016,Joce and aaron,"fisheries ton, mike and patrick"
+EL41,black.grouper,james.cistern,eleuthera,340,290,na,2016,march,23/3/2016,Joce and aaron,"fisheries ton, mike and patrick"
+EL42,black.grouper,james.cistern,eleuthera,340,280,na,2016,march,23/3/2016,Joce and aaron,"fisheries ton, mike and patrick"
+EL43,nassau.grouper,james.cistern,eleuthera,290,230,na,2016,march,23/3/2016,Joce and aaron,"genetic taken, fisheries ton, mike and patrick"
+EL44,nassau.grouper,james.cistern,eleuthera,320,280,na,2016,march,23/3/2016,Joce and aaron,"genetic taken, fisheries ton, mike and patrick"
+EL45,black.grouper,james.cistern,eleuthera,310,260,na,2016,march,23/3/2016,Joce and aaron,"fisheries ton, mike and patrick"
+EL46,black.grouper,james.cistern,eleuthera,630,500,na,2016,march,24/3/2016,Joce and aaron,"fisheries ton, mike and patrick"
+EL47,nassau.grouper,james.cistern,eleuthera,640,540,na,2016,march,24/3/2016,Joce and aaron,"genetic taken, fisheries ton, mike and patrick"
+EL48,black.grouper,james.cistern,eleuthera,550,450,na,2016,march,24/3/2016,Joce and aaron,"fisheries ton, mike and patrick"
+EL49,black.grouper,james.cistern,eleuthera,490,390,na,2016,march,24/3/2016,Joce and aaron,"fisheries ton, mike and patrick"
+EL50,nassau.grouper,james.cistern,eleuthera,540,440,na,2016,march,24/3/2016,Joce and aaron,"genetic taken, fisheries ton, mike and patrick"
+EL51,nassau.grouper,james.cistern,eleuthera,590,480,na,2016,march,24/3/2016,Joce and aaron,"genetic taken, fisheries ton, mike and patrick"
+EL52,black.grouper,james.cistern,eleuthera,570,460,na,2016,march,24/3/2016,Joce and aaron,"fisheries ton, mike and patrick"
+EL53,nassau.grouper,james.cistern,eleuthera,340,280,na,2016,march,24/3/2016,Joce and aaron,"genetic taken, fisheries ton, mike and patrick"
+EL54,nassau.grouper,james.cistern,eleuthera,330,260,na,2016,march,24/3/2016,Joce and aaron,"genetic taken, fisheries ton, mike and patrick"
+EL55,nassau.grouper,james.cistern,eleuthera,300,250,na,2016,march,24/3/2016,Joce and aaron,"genetic taken, fisheries ton, mike and patrick"
+EL56,redhind,cape.eleuthera.marina,eleuthera,335,na,na,2016,april,2016-04-12,"spring interns (dh, lw, ct, hc)",filleted before we could weigh
+EL57,redhind,cape.eleuthera.marina,eleuthera,355,na,558,2016,april,2016-04-12,"spring interns (dh, lw, ct, hc)",
+EL58,redhind,cape.eleuthera.marina,eleuthera,340,na,455,2016,april,2016-04-12,"spring interns (dh, lw, ct, hc)",
+EL59,redhind,cape.eleuthera.marina,eleuthera,325,na,403,2016,april,2016-04-12,"spring interns (dh, lw, ct, hc)",
+EL60,redhind,cape.eleuthera.marina,eleuthera,280,na,300,2016,april,2016-04-12,"spring interns (dh, lw, ct, hc)",
+EL61,redhind,cape.eleuthera.marina,eleuthera,295,na,320,2016,april,2016-04-12,"spring interns (dh, lw, ct, hc)",
+EL62,redhind,cape.eleuthera.marina,eleuthera,320,na,415,2016,april,2016-04-12,"spring interns (dh, lw, ct, hc)",
+EL63,redhind,cape.eleuthera.marina,eleuthera,310,na,373,2016,april,2016-04-12,"spring interns (dh, lw, ct, hc)",guts missing
+EL64,redhind,cape.eleuthera.marina,eleuthera,290,na,301,2016,april,2016-04-12,"spring interns (dh, lw, ct, hc)",
+EL65,redhind,cape.eleuthera.marina,eleuthera,320,na,377,2016,april,2016-04-12,"spring interns (dh, lw, ct, hc)",
+EL66,redhind,cape.eleuthera.marina,eleuthera,345,na,na,2016,april,2016-04-26,"Spring interns (ct, hc, pn, lw)",
+EL67,yellowfin.grouper,cape.eleuthera.marina,eleuthera,285,na,na,2016,april,2016-04-26,"Spring interns (ct, hc, pn, lw)",
+EL68,redhind,cape.eleuthera.marina,eleuthera,270,na,312,2016,april,2016-04-26,"Spring interns (ct, hc, pn, lw)",
+EL69,redhind,cape.eleuthera.marina,eleuthera,285,na,297,2016,april,2016-04-26,"Spring interns (ct, hc, pn, lw)",
+EL70,redhind,cape.eleuthera.marina,eleuthera,295,na,330,2016,april,2016-04-26,"Spring interns (ct, hc, pn, lw)",
+EL71,nassau.grouper,cape.eleuthera.marina,eleuthera,275,na,244,2016,april,2016-04-26,"Spring interns (ct, hc, pn, lw)",
+EL72,redhind,cape.eleuthera.marina,eleuthera,295,na,300,2016,april,2016-04-26,"Spring interns (ct, hc, pn, lw)",guts missing
+EL73,nassau.grouper,gregory.town,eleuthera,420,na,na,2016,april,2016-04-30,Joce +team,FIN CLIP - Fisher David from Caribbean side
+EL74,nassau.grouper,james.cistern,eleuthera,400,na,na,2016,april,2016-04-30,Joce +team,FIN CLIP
+EL75,nassau.grouper,james.cistern,eleuthera,324,na,na,2016,april,2016-04-30,Joce +team,FIN CLIP
+EL76,black.grouper,james.cistern,eleuthera,450,na,na,2016,april,2016-04-30,Joce +team,
+EL77,yellowfin.grouper,james.cistern,eleuthera,475,na,na,2016,april,2016-04-30,Joce +team,guts missing
+EL78,black.grouper,james.cistern,eleuthera,420,na,na,2016,april,2016-04-30,Joce +team,
+EL79,nassau.grouper,james.cistern,eleuthera,360,na,na,2016,april,2016-04-30,Joce +team,FIN CLIP
+EL80,nassau.grouper,james.cistern,eleuthera,300,na,na,2016,april,2016-04-30,Joce +team,FIN CLIP
+EL81,nassau.grouper,james.cistern,eleuthera,364,na,na,2016,april,2016-04-30,Joce +team,FIN CLIP
+MN1B,redhind,james.cistern,eleuthera,590,510,na,2016,april,01/04/2016,Manex,
+MN2B,nassau.grouper,james.cistern,eleuthera,500,410,na,2016,april,01/04/2016,Manex,
+MN3B,redhind,james.cistern,eleuthera,620,550,na,2016,april,01/04/2016,Manex,
+MN4B,nassau.grouper,james.cistern,eleuthera,500,440,na,2016,april,01/04/2016,Manex,
+MN5B,redhind,james.cistern,eleuthera,440,370,na,2016,april,01/04/2016,Manex,
+MN6B,redhind,james.cistern,eleuthera,430,360,na,2016,april,01/04/2016,Manex,
+MN7B,redhind,james.cistern,eleuthera,710,620,na,2016,april,01/04/2016,Manex,
+MN8B,redhind,james.cistern,eleuthera,680,550,na,2016,april,01/04/2016,Manex,
+MN1A,nassau.grouper,james.cistern,eleuthera,340,na,na,2016,march,2016-03-22,Manex,caught off of Rock Sound
+MN2A,nassau.grouper,james.cistern,eleuthera,410,na,na,2016,march,2016-03-22,Manex,caught off of Rock Sound
+MN3A,nassau.grouper,james.cistern,eleuthera,360,na,na,2016,march,2016-03-22,Manex,caught off of Rock Sound
+MN4A,yellowfin.grouper,james.cistern,eleuthera,520,na,na,2016,march,2016-03-22,Manex,caught off of Rock Sound
+MN5A,nassau.grouper,james.cistern,eleuthera,510,na,na,2016,march,2016-03-22,Manex,caught off of Rock Sound
+MN6A,yellowfin.grouper,james.cistern,eleuthera,510,na,na,2016,march,2016-03-22,Manex,caught off of Rock Sound
+MN7A,nassau.grouper,james.cistern,eleuthera,510,na,na,2016,march,2016-03-22,Manex,caught off of Rock Sound
+MN8A,tiger.grouper,james.cistern,eleuthera,410,na,na,2016,march,2016-03-23,Manex,caught off of Current
+MN9A,yellowfin.grouper,james.cistern,eleuthera,930,na,na,2016,march,2016-03-23,Manex,caught off of Current
+MN10A,yellowfin.grouper,james.cistern,eleuthera,490,na,na,2016,march,2016-03-23,Manex,caught off of Current
+MN11A,nassau.grouper,james.cistern,eleuthera,410,na,na,2016,march,2016-03-23,Manex,caught off of Current
+MN12A,yellowfin.grouper,james.cistern,eleuthera,490,na,na,2016,march,2016-03-23,Manex,caught off of Current

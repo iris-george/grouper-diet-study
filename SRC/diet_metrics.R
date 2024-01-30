@@ -1,7 +1,7 @@
 ##### GROUPER DIET PROJECT: CALCULATING DIET METRICS ######
 
 # The following script calculates diet metrics and indices for the contents of 
-# grouper stomachs collected from the Bahamas. The four metrices calculated are:
+# grouper stomachs collected from the Bahamas. The four metrics calculated are:
 # 1) %N (percent composition by number), 2) %V (percent composition by volume),
 # 3) %F (percent frequency of occurrence), and 4) IRI (index of relative 
 # importance). 
@@ -10,10 +10,11 @@
 # Set-Up =======================================================================
 
 # Packages
+library(tidyverse)
 library(dplyr)
 
 # Data 
-stomach_contents <- read.csv("/Users/irisgeorge/Documents/Documents/Grouper-Diet-Study/grouper-diet-study/Dataframes/grouper_stomach_data.csv")
+stomach_contents <- read.csv("/Users/irisgeorge/Documents/Local-Documents/Grouper-Diet-Study/grouper-diet-study/Dataframes/grouper_stomach_data.csv")
 
 
 # Frequency Calculation ========================================================
@@ -142,10 +143,50 @@ frequency_data$shell <- if_else(frequency_data$stomach.item == "shell", 1, 0)
 sum(frequency_data$shell)/231 # 0.004329004
 
 
+# Abundance Calculation ========================================================
+
+# Calculate abundance of diet contents: the number of individuals in each 
+# stomach recorded and expressed as a proportion of the total individuals 
+# present in the stomach (%N); the average %N can be calculated across all 
+# stomachs for each grouper species. 
+
+# find unique diet items
+unique(stomach_contents$stomach.item)
+
+# remove non-species entries (empty, mush, rock)
+abundance_data <- subset(stomach_contents, !(stomach_contents$stomach.item %in% 
+                                               c("empty", "mush", "rock")))
+
+# remove unused columns
+abundance_data <- abundance_data[,c("grouper.ID", "broad.taxa", "stomach.item")]
+
+# calculate total number of species in each stomach
+abundance_data <- abundance_data %>% 
+  group_by(grouper.ID) %>% 
+  add_count(name = "total.n")
+  
+# calculate total number of each individual species in each stomach 
+abundance_data <- abundance_data %>% 
+  group_by(grouper.ID, stomach.item) %>% 
+  add_count(name = "n.item")
+
+# collapse by unique grouper.ID/stomach.item combo
+abundance_data <- distinct(abundance_data)
+
+# calculate proportion of total individuals 
+abundance_data$proportion.n <- abundance_data$n.item/abundance_data$total.n
+
+# calculate average abundance of each diet item
+average_abundance <- abundance_data[,c("stomach.item", "proportion.n")]
+average_abundance <- average_abundance %>% 
+  group_by(stomach.item) %>% 
+  summarise(mean.abundance = mean(proportion.n))
 
 
+# Volume Calculation ===========================================================
 
-
+# Calculate volume of diet contents: the volume of the stomach filled by the 
+# individuals, expressed as percentage of the total volume occupied (%V). 
 
 
 

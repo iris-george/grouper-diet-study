@@ -14,7 +14,7 @@ library(tidyverse)
 library(dplyr)
 
 # Data 
-stomach_contents <- read.csv("/Users/irisgeorge/Documents/Local-Documents/Grouper-Diet-Study/grouper-diet-study/Dataframes/grouper_stomach_data.csv")
+stomach_contents <- read.csv("/Users/irisgeorge/Documents/Local-Documents/Grouper_Diet_Study/grouper-diet-study/Dataframes/grouper_stomach_data.csv")
 
 
 # Frequency Calculation ========================================================
@@ -30,8 +30,22 @@ unique(stomach_contents$stomach.item)
 frequency_data <- stomach_contents[,c("grouper.ID", "broad.taxa", 
                                       "stomach.item")]
 
+# remove non food items
+frequency_data <- subset(frequency_data, !(frequency_data$stomach.item %in% 
+                                               c("empty", "mush", "rock", "seaweed", "shell", "mermaids.tea.cup", "coral")))
+
 # subset for only distinct rows
 frequency_data <- distinct(frequency_data, .keep_all = FALSE)
+
+# calculate the number of stomachs containing each diet item
+frequency_data <- frequency_data %>% 
+  group_by(stomach.item) %>% 
+  add_count(name = "item.frequency")
+
+# calculate average item frequency 
+item_frequency <- frequency_data[,c("stomach.item", "item.frequency")]
+item_frequency <- distinct(item_frequency)
+item_frequency$mean.frequency <- item_frequency$item.frequency / 231 # divide each frequency by total number of stomachs 
 
 # frequency of empty stomachs 
 frequency_data$empty <- if_else(frequency_data$stomach.item == "empty", 1, 0)
@@ -155,7 +169,7 @@ unique(stomach_contents$stomach.item)
 
 # remove non-species entries (empty, mush, rock)
 abundance_data <- subset(stomach_contents, !(stomach_contents$stomach.item %in% 
-                                               c("empty", "mush", "rock")))
+                                               c("empty", "mush", "rock", "seaweed", "shell", "mermaids.tea.cup", "coral")))
 
 # remove unused columns
 abundance_data <- abundance_data[,c("grouper.ID", "broad.taxa", "stomach.item")]
@@ -188,6 +202,64 @@ average_abundance <- average_abundance %>%
 # Calculate volume of diet contents: the volume of the stomach filled by the 
 # individuals, expressed as percentage of the total volume occupied (%V). 
 
+# create new dataframe
+volume_data <- stomach_contents[,c("grouper.ID", "broad.taxa", "stomach.item", "volume.ml")]
+
+# remove non food items
+volume_data <- subset(volume_data, !(volume_data$stomach.item %in% 
+                                             c("empty", "mush", "rock", "seaweed", "shell", "mermaids.tea.cup", "coral")))
+
+# remove NA values (where volume could not be determined)
+volume_data <- volume_data[!(volume_data$volume.ml == "na"),]
+
+# calculate total volume occupied in each stomach
+volume_data <- transform(volume_data, volume.ml = as.numeric(volume.ml))
+volume_data <- na.omit(volume_data) # removing "<" volume values 
+stomach_volume <- volume_data %>% 
+  group_by(grouper.ID) %>% 
+  summarise(total.volume.ml = sum(volume.ml))
+
+# merge total stomach volume to volume dataframe 
+volume_data <- merge(volume_data, stomach_volume, by = "grouper.ID", all = TRUE)
+
+# calculate the volume occupied in each stomach by each diet item 
+diet_item_volumes <- volume_data %>% 
+  group_by(grouper.ID, stomach.item) %>% 
+  summarise(item.volume.ml = sum(volume.ml))
+
+# merge diet item volumes to volume dataframe 
+volume_data <- left_join(volume_data, diet_item_volumes, 
+                          by = c("grouper.ID" = "grouper.ID", "stomach.item"="stomach.item"))
+
+# collapse by unique grouper.ID/stomach.item combo
+volume_data <- volume_data[,c("grouper.ID", "stomach.item", "total.volume.ml", "item.volume.ml")]
+volume_data <- distinct(volume_data)
+
+# calculate the proportion of stomach volume occupied by each diet item 
+volume_data$volume.proportion <- volume_data$item.volume.ml / volume_data$total.volume.ml
+
+# calculate the average volume occupied by each diet item 
+average_volume <- volume_data[,c("stomach.item", "volume.proportion")]
+average_volume <- average_volume %>% 
+  group_by(stomach.item) %>% 
+  summarise(mean.volume.ml = mean(volume.proportion))
+
+
+# IRI Calculation ==============================================================
+
+# Calculate the index of relative important (IRI) for each diet item: combines 
+# the amount of each item and its bulk in the stomach (IRI = (%N + %V)*%F)
+
+# merge %N (abundance), %V (volume), and %F (frequency) dataframes 
+iri_data <- item_frequency %>% 
+  left_join(average_abundance, by = "stomach.item") %>% 
+  left_join(average_volume, by = "stomach.item")
+
+# remove NAs
+iri_data <- na.omit(iri_data) # removes lobster; volume could not be calculated
+
+# calculate IRI
+iri_data$iri <- (iri_data$mean.abundance + iri_data$mean.volume)*iri_data$mean.frequency
 
 
 

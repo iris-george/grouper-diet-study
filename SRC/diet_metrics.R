@@ -27,7 +27,7 @@ stomach_contents <- read.csv("/Users/irisgeorge/Documents/Local-Documents/Groupe
 unique(stomach_contents$stomach.item)
 
 # assign new dataframe
-frequency_data <- stomach_contents[,c("grouper.ID", "broad.taxa", 
+frequency_data <- stomach_contents[,c("grouper.ID", "species", "broad.taxa", 
                                       "stomach.item")]
 
 # remove non food items

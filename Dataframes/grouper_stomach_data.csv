@@ -136,7 +136,7 @@ EL025,empty,empty,na,na,na,na,Cara
 EL026,mush,mush,5,na,na,2.089,Lili
 EL027,teleosts,parrotfish,3,na,na,na,Helen
 EL027,empty,empty,na,na,na,na,"blck substance, potentially the liver-Helen"
-El028,teleosts,grunt,3,na,30,33,Helen- grunt head only
+EL028,teleosts,grunt,3,na,30,33,Helen- grunt head only
 EL029,teleosts,parrotfish,3,na,na,18,Cara- Parrot fish ?
 EL030,empty,empty,na,na,na,na,Lili
 EL031,teleosts,fish,4,na,40,45,Pauline- Highly digested 
@@ -170,7 +170,7 @@ EL108,crustacea,crab,3,28,3,2.74,Drew
 EL108,empty,empty,na,na,na,na,Drew
 EL109,empty,empty,na,na,na,na,Drew
 EL110,mush,mush,5,na,na,0.126,Pauline
-EL1 ,teleosts,stoplight.parrotfish,2,244,1000,1056,Cara
+EL1,teleosts,stoplight.parrotfish,2,244,1000,1056,Cara
 EL2,teleosts,fish,4,na,na,na,Drew
 EL3,empty,empty,na,na,na,na,Drew
 EL4,mollusca,octopus,2,154,40,43,Cara

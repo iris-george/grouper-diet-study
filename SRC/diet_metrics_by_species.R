@@ -60,7 +60,20 @@ taxa_frequency <- distinct(taxa_frequency)
 nassau_frequency <- subset(taxa_frequency, species == "nassau.grouper")
 nassau_frequency$mean.frequency <- nassau_frequency$taxa.frequency/sum(nassau_frequency$taxa.frequency) 
 
-# split into dataframes for rest of the species, then merge back together 
+yellowfin_frequency <- subset(taxa_frequency, species == "yellowfin.grouper")
+yellowfin_frequency$mean.frequency <- yellowfin_frequency$taxa.frequency/sum(yellowfin_frequency$taxa.frequency) 
+
+black_frequency <- subset(taxa_frequency, species == "black.grouper")
+black_frequency$mean.frequency <- black_frequency$taxa.frequency/sum(black_frequency$taxa.frequency) 
+
+redhind_frequency <- subset(taxa_frequency, species == "redhind")
+redhind_frequency$mean.frequency <- redhind_frequency$taxa.frequency/sum(redhind_frequency$taxa.frequency)
+
+tiger_frequency <- subset(taxa_frequency, species == "tiger.grouper")
+tiger_frequency$mean.frequency <- tiger_frequency$taxa.frequency/sum(tiger_frequency$taxa.frequency) 
+
+# merge species dataframes back together 
+avg_taxa_frequency <- rbind(nassau_frequency, yellowfin_frequency, black_frequency, redhind_frequency, tiger_frequency)
 
 
   

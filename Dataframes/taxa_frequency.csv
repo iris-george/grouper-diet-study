@@ -1,0 +1,17 @@
+"species","broad.taxa","taxa.frequency","mean.frequency"
+"nassau.grouper","crustacea",30,0.545454545454545
+"nassau.grouper","teleosts",29,0.527272727272727
+"nassau.grouper","mollusca",1,0.0181818181818182
+"nassau.grouper","echinodermata",1,0.0181818181818182
+"yellowfin.grouper","teleosts",10,0.833333333333333
+"yellowfin.grouper","crustacea",1,0.0833333333333333
+"yellowfin.grouper","mollusca",1,0.0833333333333333
+"black.grouper","teleosts",8,1
+"black.grouper","mollusca",1,0.125
+"redhind","crustacea",16,0.842105263157895
+"redhind","teleosts",5,0.263157894736842
+"redhind","mollusca",1,0.0526315789473684
+"yellowfin.grouper","echinodermata",0,0
+"black.grouper","crustacea",0,0
+"black.grouper","echinodermata",0,0
+"redhind","echinodermata",0,0
